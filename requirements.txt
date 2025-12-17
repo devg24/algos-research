@@ -1,0 +1,16 @@
+# Core dependencies for JL+LSH experiments
+numpy>=1.21.0
+scikit-learn>=1.0.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+psutil>=5.8.0
+jupyter>=1.0.0
+notebook>=6.4.0
+
+# Optional: For future ANN baselines
+# Uncomment when needed:
+# faiss-cpu>=1.7.0  # or faiss-gpu for GPU support
+# hnswlib>=0.6.0
+
+# For data processing
+# pandas>=1.3.0  # Uncomment if needed
