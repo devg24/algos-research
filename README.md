@@ -128,19 +128,19 @@ The evaluator automatically computes:
 
 ### Week 1-2: Baseline and JL Projection
 - [x] Baseline KNN (this notebook)
-- [ ] Implement JL projection (Achlioptas sparse random matrices)
-- [ ] Test JL with various target dimensions k ∈ {50, 75, 100, 150, 200, 300}
+- [x] Implement JL projection (Achlioptas sparse random matrices)
+- [x] Test JL with various target dimensions k ∈ {50, 75, 100, 150, 200, 300}
 
 ### Week 3: LSH Implementation
-- [ ] Implement E2LSH (p-stable hashing)
-- [ ] Tune hyperparameters (K, L, w)
-- [ ] Compare with FAISS and HNSW baselines
+- [x] Implement E2LSH (p-stable hashing)
+- [x] Tune hyperparameters (K, L, w)
+- [x] Compare with FAISS and HNSW baselines
 
 ### Week 4: JL+LSH Composition
-- [ ] Combine JL projection with LSH indexing
-- [ ] Analyze collision probability preservation
-- [ ] Generate space-time-accuracy Pareto curves
-- [ ] Write final report
+- [x] Combine JL projection with LSH indexing
+- [x] Analyze collision probability preservation
+- [x] Generate space-time-accuracy Pareto curves
+- [x] Write final report
 
 ## Key Results to Track
 
